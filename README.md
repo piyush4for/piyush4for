@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  🌱 I’m contributed to  
--   Repo : AwesomeAutomation,PyDude
--   Organization: ...
--   Challenge: JWOC,LetsGrowMore SOC,Hacktoberfest
+-   Repo : AwesomeAutomation,PyDude ...
+-   Organization: ZeroToMastery
+-   Challenge: JWOC,LetsGrowMore SOC,Hacktoberfest, GSSOC
 -   🔭 I’m currently working on blockchain
 
 -- 📫 How to reach me: [website](http://demo-portfolio.s3-website.ap-south-1.amazonaws.com/)
