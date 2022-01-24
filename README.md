@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 -   🔭 I’m currently working on blockchain
 
 -- 📫 How to reach me: [website](http://demo-portfolio.s3-website.ap-south-1.amazonaws.com/)
+-- My resume: [link](https://drive.google.com/file/d/1OItGglYQIWD6oGdf5v0aRUByqz72GG3J/view?usp=drivesdk)
 ---
 [![Piyush GitHub stats](https://github-readme-stats.vercel.app/api?username=piyush4for&show_icons=true&theme=radical)
 )](https://github.com/piyush4for/)
